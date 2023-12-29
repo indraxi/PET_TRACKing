@@ -1,0 +1,99 @@
+*{
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left:10px ;
+    margin-right:10px ;
+    padding: 0%;
+    
+ 
+ }
+ body{
+     background-color: skyblue;
+     background-size: 100% 740px;
+     
+
+     }
+     .heading{
+        position: relative;
+        
+     }
+ .contain{
+     width: 400px;
+     height : 550px;
+     background-color: yellowgreen;
+     margin-left: 36%;
+     margin-right: 36%;
+     margin-top: 7%;
+     margin-bottom: 15%;
+     text-align: center;
+     color: black;
+     position: relative;
+     bottom: 60px;
+     
+     border-radius: 20px;
+
+ }
+ .contain .text{
+     position: relative;
+     top: 7%;
+ }
+ .imp1{
+     border:none;
+     background-color:black ;
+     border-bottom: 3px solid white;
+     width: 400px;
+     font-size: 22px;
+     margin-top: 40px;
+     outline:none;
+     color: white;
+ }
+ .imp2{
+    padding: 180px;
+    height: 600px;
+    width: 500px;
+     border:none;
+     background-color:black ;
+     border-bottom: 3px solid white;
+     width: 1000px;
+     font-size: 50px;
+     margin-top: 40px;
+     outline:none;
+     color: white;
+ }
+ .imp3{
+     border: none;
+     background-color:black ;
+     border-bottom: 3px solid white;
+     width: 400px;
+     font-size: 22px;
+     margin-top: 40px;
+     outline:none;
+     color: white;
+ }
+ .imp4{
+    border: none;
+    background-color:black ;
+    border-bottom: 3px solid white;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline:none;
+    color: white;
+}
+ .text button{
+     width: 250px;
+     height: 44px;
+     background-color: rgb(7, 103, 7);
+     color: black;
+     border: none ;
+     font-size: 22px;
+     border-radius: 25px;
+     margin-top: 20px;
+     cursor: pointer;
+ }
+ button:hover{
+     border: 3px solid aqua;
+     color: white;
+     font-size: 20px;
+     background-color: black;
+ }

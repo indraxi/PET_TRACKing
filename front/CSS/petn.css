@@ -1,0 +1,111 @@
+*{
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left:10px ;
+    margin-right:10px ;
+    padding: 0%;
+    
+ 
+ }
+ body{
+    background-image: url("beautiful-pet-portrait-small-dog-cat.jpg");
+    background-size: 100% 740px;
+    
+
+    }
+ .contain{
+    width: 400px;
+    height : 700px;
+    background-color: rgb(4, 91, 86);
+    margin-left: 36%;
+    margin-top: 7%;
+    margin-bottom: 15%;
+    text-align: center;
+    color: rgb(0, 235, 125);
+    position: relative;
+    bottom: 60px;
+    left:300px;
+    border-radius: 20px;
+
+}
+.contain .text{
+    position: relative;
+    top: 7%;
+}
+.imp1{
+    border:none;
+    background-color:black ;
+    border-bottom: 3px solid white;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline:none;
+    color: white;
+}
+.imp2{
+    border:none;
+    background-color:black ;
+    border-bottom: 3px solid white;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline:none;
+    color: white;
+}
+.imp3{
+    border: none;
+    background-color:black ;
+    border-bottom: 3px solid white;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline:none;
+    color: white;
+}
+.imp4{
+    border: none;
+    background-color:black ;
+    border-bottom: 3px solid white;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline:none;
+        color: white;
+    }
+    .imp5{
+        border: none;
+        background-color:black ;
+        border-bottom: 3px solid white;
+        width: 400px;
+        font-size: 22px;
+        margin-top: 40px;
+        outline:none;
+        color: white;
+    }
+    .imp6{
+        border: none;
+        background-color:black ;
+        border-bottom: 3px solid white;
+        width: 400px;
+        font-size: 22px;
+        margin-top: 40px;
+        outline:none;
+        color: white;
+    }
+    .text button{
+        width: 250px;
+        height: 44px;
+        background-color: rgb(191, 244, 2);
+        color: black;
+        border: none ;
+        font-size: 22px;
+        border-radius: 25px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    button:hover{
+        border: 3px solid aqua;
+        color: white;
+        font-size: 20px;
+        background-color: black;
+    }

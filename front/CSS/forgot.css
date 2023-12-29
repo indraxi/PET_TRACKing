@@ -1,0 +1,35 @@
+.contain{
+    width: 700px;
+    height : 300px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-left: 27%;
+    /* margin-inline: 30%; */
+    text-align: center;
+    color: black;
+    position: relative;
+    
+    margin-right:200px;
+}
+.contain h1{
+    padding: 20px 20px 20px 20px;
+}
+.create-button{
+    background-color: brown;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    padding: 20px;
+    border-color: orange;
+    align-items: center;
+}
+.create-button p{
+    font-size: medium;
+}
+
+.inp1{
+    font-size: medium;
+}
+.contain p{
+    font-size: 120%;
+}
